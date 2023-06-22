@@ -9,7 +9,7 @@ cloudinay.config({
 
 
 
-const uploadController = {
+const uploadControllers = {
     uploadImage: async (req,res) =>{
         try {
             //get the file 
