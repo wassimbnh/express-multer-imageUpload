@@ -8,7 +8,6 @@ cloudinay.config({
 })
 
 
-
 const uploadController = {
     uploadImage: async (req,res) =>{
         try {
